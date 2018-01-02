@@ -42,5 +42,6 @@ Lazy Master     = +EVERYTHING -AUTOLOGIN
 Project Leader        = +EVERYTHING
 HeadAdmin         = +EVERYTHING
 Host            = +EVERYTHING
+Head Developer            = +EVERYTHING
 
 Coder            = +DEBUG +VAREDIT +SERVER +SPAWN +POLL -AUTOLOGIN

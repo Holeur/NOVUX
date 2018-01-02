@@ -20,3 +20,4 @@ Booktev - Project Leader
 
 Kruppzo - Game Master
 RedKnightHero - HeadAdmin
+posticum - Head Developer
