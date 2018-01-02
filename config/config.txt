@@ -19,7 +19,7 @@ $include comms.txt
 # SERVERSQLNAME tgstation
 
 ## Station name: The name of the station as it is referred to in-game. If commented out, the game will generate a random name instead.
-STATIONNAME Space Station 13
+STATIONNAME Novux Station
 
 ## Put on byond hub: Uncomment this to put your server on the byond hub.
 #HUB
@@ -243,7 +243,7 @@ TICK_LIMIT_MC_INIT 500
 
 ##Defines the ticklag for the world. Ticklag is the amount of time between game ticks (aka byond ticks) (in 1/10ths of a second).
 ##	This also controls the client network update rate, as well as the default client fps
-TICKLAG 0.5
+TICKLAG 0.2
 
 ##Can also be set as per-second value, the following value is identical to the above.
 #FPS 20
